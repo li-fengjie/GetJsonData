@@ -9,7 +9,7 @@ import java.net.*;
 import static com.life.test.GetDataTest.readInputStream;
 
 /**
- * 获取校徽图片
+ * 获取校徽图片 校徽制作小程序
  */
 public class GetImagesData {
     public static void main(String[] args) {
